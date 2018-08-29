@@ -1,0 +1,9 @@
+title = "inazuma eleven go light"
+description = "sport simulator game from the anime. its a fun and great game. good story and great game paly."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000112F00"
+region = "eur"
+release_date = "2014-06-13"
